@@ -2,8 +2,6 @@
 
 These are the Latex sources for my academic CV.
 
-**Download** the latest compiled PDF: 
-[leonardo_uieda_cv.pdf](https://github.com/leouieda/cv/raw/pdf/leonardo_uieda_cv.pdf)
 
 ## Template
 

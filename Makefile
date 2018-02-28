@@ -1,6 +1,6 @@
 # The name of the main .tex file to build.
 # Other files can be included into this one.
-DOCUMENT = leonardo_uieda_cv
+DOCUMENT = aakash_sharma_cv
 PDF = $(DOCUMENT).pdf
 
 LATEX_FLAGS = -halt-on-error
