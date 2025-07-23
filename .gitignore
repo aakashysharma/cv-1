@@ -10,3 +10,5 @@ output/
 *.pdf
 
 *.gz
+*.fls
+*.fdb_latexmk
